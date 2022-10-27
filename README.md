@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <img width="20%" src= https://user-images.githubusercontent.com/85928740/198172714-e2cf5860-7809-4fea-9782-5a5138c04865.jpg>
 
 - 이름 : 양유진
-- 전공 : 빅데이터전공
+- 생년월일 : 2001.04.22
+- 전공 : 소프트웨어융합대학 빅데이터전공
 - 관심 분야 : 보안, 웹/앱 개발 및 디자인
 - 취미 : 책 읽기, 코딩 문제 풀기, 영화보기, 헬스
 - 특기 : 자신의 감정을 일기로 쓸 수 있음
