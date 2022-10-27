@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 취미 : 책 읽기, 코딩 문제 풀기, 영화보기, 헬스
 - 특기 : 자신의 감정을 일기로 쓸 수 있음
 - 이메일 : did7121@naver.com
-- 깃허브 : did7121.github.io
+- 깃허브 : https://did7121.github.io/
 
 **좌우명**
 > 너가 그림을 그린다면 그림자까지 그려 
