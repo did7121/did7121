@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 이름 : 양유진
 - 취미 : 책 읽기, 코딩 문제 풀기, 영화보기, 헬스
-- 특기 : 내 감정을 일기로 쓸 수 있음
+- 특기 : 자신의 감정을 일기로 쓸 수 있음
 - 이메일 : did7121@naver.com
 - 깃허브 : did7121.github.io
 
